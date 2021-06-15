@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import javax.inject.Inject;
 import java.util.Arrays;
 
-@MyTestAnontation
+@MyTestAnnotation
 public class test1 {
     @Inject
     RedisClient client;

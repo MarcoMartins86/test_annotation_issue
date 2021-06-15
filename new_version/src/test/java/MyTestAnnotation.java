@@ -14,5 +14,5 @@ import java.lang.annotation.Target;
 @QuarkusTestResource.List({
         @QuarkusTestResource(RedisTestResource.class)
 })
-public @interface MyTestAnontation {
+public @interface MyTestAnnotation {
 }
